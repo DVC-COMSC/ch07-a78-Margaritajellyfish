@@ -5,7 +5,7 @@
 
 # print the words that has 'a', 'r', 'e' in sequence
 
-words = input('Enter the list: ').split()
+words = input().split()
 words_print = []
 are = ['a', 'r', 'e']
 idxlst = []
